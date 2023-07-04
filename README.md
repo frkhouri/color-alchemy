@@ -1,12 +1,22 @@
-# LiveBarn Front-end Software Engineer Interview Code Challenge #
+# Front-end Application instructions
 
-Welcome to LiveBarn Front-end Software Engineer Interview Code Challenge. 
+In the `color-alchemy-client` directory, run the following commands:
+
+```
+npm install
+npm run dev
+```
+
+# LiveBarn Front-end Software Engineer Interview Code Challenge
+
+Welcome to LiveBarn Front-end Software Engineer Interview Code Challenge.
 
 Please clone this repository and read the instructions [here](https://hackmd.io/@gd_dVYF0STqPqMLWkxnd6A/Byrxur5At).
 
 Please upload your code to your online repository and provide us with the link.
 
-## Evaluation ##
+## Evaluation
+
 1. Code completion and correctness
 2. Code brevity and clarity
 3. Code efficiency and readability
